@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-kverma&label=Profile%20views&color=0e75b6&style=flat" alt="amit-kverma" /> </p>
 
-- 🔭 I’m currently working on [Supply Chain Analysis](https://github.com/Amit-KVerma/Supply_chain_Dashboard)
+- 🔭 I’m currently working on [HR Analytics Dashboard](https://github.com/Amit-KVerma/HR_Analytics_Dashboard)
 
 - 🌱 I’m currently learning **Business Analyst, Gen AI**
 
